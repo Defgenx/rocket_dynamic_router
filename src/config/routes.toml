@@ -1,0 +1,11 @@
+[[routes]]
+name = "helloworld"
+url = "/hello-world"
+method = "HelloWorld"
+httpMethod = "GET"
+
+[[routes]]
+name = "hellofrance"
+url = "/hello-france"
+method = "HelloFrance"
+httpMethod = "GET"
