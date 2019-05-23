@@ -2,10 +2,10 @@
 name = "helloworld"
 url = "/hello-world"
 method = "HelloWorld"
-httpMethod = "GET"
+http_method = "GET"
 
 [[routes]]
 name = "hellofrance"
 url = "/hello-france"
 method = "HelloFrance"
-httpMethod = "GET"
+http_method = "GET"
